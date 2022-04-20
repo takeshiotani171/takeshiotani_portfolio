@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/takeshiotani_portfolio/static/css/main.92dd998f.chunk.css",
+    "main.js": "/takeshiotani_portfolio/static/js/main.47cd2927.chunk.js",
+    "main.js.map": "/takeshiotani_portfolio/static/js/main.47cd2927.chunk.js.map",
+    "runtime-main.js": "/takeshiotani_portfolio/static/js/runtime-main.da922833.js",
+    "runtime-main.js.map": "/takeshiotani_portfolio/static/js/runtime-main.da922833.js.map",
+    "static/js/2.81ff60ee.chunk.js": "/takeshiotani_portfolio/static/js/2.81ff60ee.chunk.js",
+    "static/js/2.81ff60ee.chunk.js.map": "/takeshiotani_portfolio/static/js/2.81ff60ee.chunk.js.map",
+    "index.html": "/takeshiotani_portfolio/index.html",
+    "static/css/main.92dd998f.chunk.css.map": "/takeshiotani_portfolio/static/css/main.92dd998f.chunk.css.map",
+    "static/js/2.81ff60ee.chunk.js.LICENSE.txt": "/takeshiotani_portfolio/static/js/2.81ff60ee.chunk.js.LICENSE.txt",
+    "static/media/aws_3.6e76adc8.png": "/takeshiotani_portfolio/static/media/aws_3.6e76adc8.png",
+    "static/media/HeroSection.css": "/takeshiotani_portfolio/static/media/data_2.602cacb3.jpeg",
+    "static/media/facebook.9f0ee603.png": "/takeshiotani_portfolio/static/media/facebook.9f0ee603.png",
+    "static/media/kaggle.16c4b0ab.jpeg": "/takeshiotani_portfolio/static/media/kaggle.16c4b0ab.jpeg",
+    "static/media/kaggle.bbc6eab8.png": "/takeshiotani_portfolio/static/media/kaggle.bbc6eab8.png",
+    "static/media/postgresql_6.e393ee5b.jpeg": "/takeshiotani_portfolio/static/media/postgresql_6.e393ee5b.jpeg",
+    "static/media/takeshi3.b57a779a.jpg": "/takeshiotani_portfolio/static/media/takeshi3.b57a779a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da922833.js",
+    "static/js/2.81ff60ee.chunk.js",
+    "static/css/main.92dd998f.chunk.css",
+    "static/js/main.47cd2927.chunk.js"
+  ]
+}
